@@ -2,4 +2,4 @@
 ## Notebooks resultantes do trabalho de pesquisa para classificação do dataset VICTOR.
 
 
-[Pre_process_Dataset_Victor](link): Notebook para pré-processamento do dataset.
+[Pre_process_Dataset_Victor](Pre_process_Dataset_VICTOR.ipynb): Notebook para pré-processamento do dataset.
